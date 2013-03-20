@@ -1,5 +1,5 @@
 
-package org.fcrepo.generator;
+package org.fcrepo.integration.generator;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
